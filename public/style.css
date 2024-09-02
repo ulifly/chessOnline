@@ -1,0 +1,12 @@
+body {
+  overflow-y: auto;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  background-color: #5e5e5e;
+}
+
+#gameBoard {
+  width: 400px;
+
+}
